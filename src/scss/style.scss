@@ -1,0 +1,14 @@
+//general styling
+
+body{
+  font-family: 'SF Display Pro', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import "cart";
+@import "footer";
+@import "header";
+@import "toast";
+@import "store";
